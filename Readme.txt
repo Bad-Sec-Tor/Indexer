@@ -1,7 +1,7 @@
 HI.
 Please first copy all the text code and paste in to pycharm or other IDE and run it in this IDE.
 then you should to enter a number of two button : 1 & 2.enter 1 for find your file inedxes and enter 2 for exit.
-when you entered button 1 prgrame  wants you enter the address of your text file.
+when you entered button 1 programe  wants you enter the address of your text file.
 then you enterd address of a text file , programe will show indexes of your text file.
 this program have 2 function :1.File , 2.sortwords
 File function :
