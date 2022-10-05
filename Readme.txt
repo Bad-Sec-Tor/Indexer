@@ -15,4 +15,4 @@ This function first places the flag incorrectly and receives two characters.
 then a group of words 4 It prints letters or more than 4 letters and they start with that capital letter.
 This function is called by a loop. In that loop, each time it is repeated, one of the English letters is sent to the function in alphabetical order, both large and small.
 Reza Chabok Shahroudi.
-Email:mail-to-bad-sector@proton.me
+Email:r.chabok@proton.me
